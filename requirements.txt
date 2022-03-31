@@ -1,0 +1,6 @@
+webdriver_helper
+pytest
+selenium~=4.1.3
+openpyxl
+ddt
+allure-pytest
