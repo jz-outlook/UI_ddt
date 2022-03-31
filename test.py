@@ -19,3 +19,18 @@ for file in file_list:
     #         print('        步骤', step)
     #
     # print('测试套件结束', '-' * 10)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
